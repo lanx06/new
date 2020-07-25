@@ -1,0 +1,25 @@
+{
+  "name": "heroku",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node HelloWord.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "keywords": [],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lanx06/heroku.git"
+  },
+  "bugs": {
+    "url": "https://github.com/lanx06/heroku/issues"
+  },
+  "homepage": "https://github.com/lanx06/heroku#readme",
+  "description": ""
+}
